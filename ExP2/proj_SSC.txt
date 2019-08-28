@@ -1,0 +1,15 @@
+PROJETO "SISTEMA SOLAR - CATALOGO"
+
+A idéia é catalogar os Astros em um Sistema Solar, coletando informações essenciais e os classificando.
+
+Inicialmente, para ser considerado um Astro aceito pelo catálogo, é obrigatório ter como acessar seus dados.
+
+Para um Astro Artificial, é necessário de seu nome, seu tipo e sua localização no sistema solar.
+
+Para um Astro Natural, precisa-se inicialmente de seu nome e sua massa. Dependendo da sua classificação, novos dados são requisitados.
+
+Para uma Estrela, sua idade. Para um Planeta, seu tipo, seu período de rotação e translação e a quantidade de luas). Para uma Lua, o planeta que ela orbita. E para um Corpo Celestial Pequeno, seu tipo.
+
+Para facilitar a atribuição de valores astronômicos, criar-se um tipo abstrato para tal.
+
+Esses Astros são criados, cadastrados e acessados através de um Sistema Solar.
